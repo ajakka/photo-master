@@ -3,7 +3,7 @@
 To get started, install the required dependencies:
 
 ```bash
-$	pip install matplotlib
+$ pip install matplotlib
 ```
 
 Inside the directory, run the command:
